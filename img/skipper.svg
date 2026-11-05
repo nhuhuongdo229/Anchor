@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-label="Skipper, the Anchor paper boat">
+<defs><clipPath id="d"><circle cx="120" cy="120" r="112"></circle></clipPath></defs>
+<circle cx="120" cy="120" r="112" fill="#c2dbff"></circle>
+<g clip-path="url(#d)">
+<path d="M-20 172 q20 -12 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 V250 H-20 Z" fill="#7fb0ff"></path>
+
+<g transform="rotate(0 120 150)">
+<path d="M120 46 L170 118 L70 118 Z" fill="#ffffff" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"></path>
+<path d="M120 46 L170 118 L120 118 Z" fill="#dce8ff" stroke="#dce8ff" stroke-width="8" stroke-linejoin="round"></path>
+<path d="M30 118 L210 118 L174 182 L66 182 Z" fill="#ffffff" stroke="#ffffff" stroke-width="10" stroke-linejoin="round"></path>
+<path d="M30 118 L70 118 L66 182 Z" fill="#eaf1ff"></path>
+<path d="M210 118 L170 118 L174 182 Z" fill="#dce8ff"></path>
+<path d="M120 46 V22" stroke="#12254a" stroke-width="5" stroke-linecap="round"></path>
+<path d="M122 22 L146 30 L122 38 Z" fill="#ffd447" stroke="#ffd447" stroke-width="4" stroke-linejoin="round"></path>
+<ellipse cx="88" cy="158" rx="9" ry="5.5" fill="#ffb9d6"></ellipse>
+<ellipse cx="152" cy="158" rx="9" ry="5.5" fill="#ffb9d6"></ellipse>
+<circle cx="100" cy="144" r="7" fill="#12254a"></circle><circle cx="140" cy="144" r="7" fill="#12254a"></circle><circle cx="102.5" cy="141.5" r="2.2" fill="#ffffff"></circle><circle cx="142.5" cy="141.5" r="2.2" fill="#ffffff"></circle>
+<path d="M110 156 Q120 166 130 156" fill="none" stroke="#12254a" stroke-width="4.5" stroke-linecap="round"></path>
+</g>
+<path d="M-40 186 q20 -12 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 V250 H-40 Z" fill="#1b64da"></path>
+</g>
+</svg>
